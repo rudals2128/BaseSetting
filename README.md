@@ -4,7 +4,7 @@
 - BaseActivity, BaseFragment
 - Animation
 - color
-- 
+- TedPermission
 
 ## Tech
 
